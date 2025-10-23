@@ -250,9 +250,9 @@ INSERT INTO services (
   is_active
 ) VALUES
 (
-  'إصلاح العتاد',
+  'إصلاح الهاردوير',
   'Hardware Repair',
-  'إصلاح جميع مشاكل العتاد الصلب للحواسيب واللابتوبات بما في ذلك استبدال القطع التالفة',
+  'إصلاح جميع مشاكل الهاردوير للحواسيب واللابتوبات بما في ذلك استبدال القطع التالفة',
   'Repair all hardware issues for computers and laptops including replacement of damaged parts',
   'hardware_repair',
   150.00,

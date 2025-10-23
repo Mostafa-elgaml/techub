@@ -78,7 +78,7 @@ export const translations = {
     services: {
       title: 'خدماتنا التقنية',
       subtitle: 'نقدم مجموعة شاملة من خدمات الصيانة والدعم الفني',
-      hardwareRepair: 'إصلاح العتاد',
+      hardwareRepair: 'إصلاح الهاردوير',
       motherboardFix: 'إصلاح اللوحات الأم',
       softwareSupport: 'الدعم البرمجي',
       itContract: 'عقود الدعم الفني',
