@@ -14,7 +14,7 @@ export const Footer = ({ onNavigate }: FooterProps) => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-white text-xl font-bold mb-4 bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-              TechHub
+              علي جلال
             </h3>
             <p className="text-sm leading-relaxed">
               {t.footer.aboutText}
@@ -112,7 +112,7 @@ export const Footer = ({ onNavigate }: FooterProps) => {
               </li>
               <li className="flex items-center gap-2 text-sm">
                 <Mail className="w-4 h-4 text-blue-400" />
-                <span>info@techhub.sa</span>
+                <span>info@alijalal.sa</span>
               </li>
               <li className="flex items-start gap-2 text-sm">
                 <MapPin className="w-4 h-4 text-blue-400 mt-1" />
@@ -123,7 +123,7 @@ export const Footer = ({ onNavigate }: FooterProps) => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-          <p>© 2024 TechHub. {t.footer.allRightsReserved}</p>
+          <p>© 2024 علي جلال. {t.footer.allRightsReserved}</p>
         </div>
       </div>
     </footer>

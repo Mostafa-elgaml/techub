@@ -61,7 +61,7 @@ export const Contact = ({ onNavigate }: ContactProps) => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">{t.contact.email_label}</h3>
-                    <p className="text-gray-600">info@techhub.sa</p>
+                    <p className="text-gray-600">info@alijalal.sa</p>
                   </div>
                 </div>
 

@@ -36,7 +36,7 @@ export const Header = ({ onNavigate, currentPage }: HeaderProps) => {
               onClick={() => onNavigate('home')}
               className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-600 bg-clip-text text-transparent"
             >
-              TechHub
+              علي جلال
             </button>
 
             <nav className="hidden md:flex gap-6">
